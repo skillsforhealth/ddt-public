@@ -172,7 +172,7 @@
             "[resourceId('Microsoft.Web/Sites/config', parameters('BlazorWebsiteName'), 'connectionstrings')]"
           ],
           "properties": {
-            "RepoUrl": "https://github.com/oqtane/oqtane.framework.git",
+            "RepoUrl": "https://raw.githubusercontent.com/skillsforhealth/ddt-public/master/azuredeploy.json",
             "branch": "master",
             "IsManualIntegration": true
           }
